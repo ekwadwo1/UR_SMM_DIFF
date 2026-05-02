@@ -310,22 +310,7 @@ Input x_0 [B,4,128³]
 
 *Links will be populated upon paper acceptance.*
 
-## Citation
 
-```bibtex
-@article{your_name2026urssmdiff,
-  title     = {{UR-SSM-Diff}: Uncertainty-Rectified State-Space Latent Diffusion
-               for Physics-Consistent {3D} {MRI} Artifact Correction and
-               Tumor Quantification},
-  author    = {Your Name and Co-Author Names},
-  journal   = {IEEE Transactions on Medical Imaging},
-  year      = {2026},
-  volume    = {},
-  number    = {},
-  pages     = {},
-  doi       = {10.1109/TMI.2026.XXXXXXX}
-}
-```
 
 ## License
 
